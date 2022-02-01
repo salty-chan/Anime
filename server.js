@@ -10,4 +10,4 @@ te wo hanasanai
 
 golang ftw
 
-long running feature branch start
+long running feature branch // not a churn
