@@ -1,6 +1,6 @@
 const axios = require('axios')
 
-uwu
+uwus
 
 kimetsu no yaiba
 
